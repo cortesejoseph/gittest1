@@ -15,6 +15,7 @@ namespace ConsoleApp1
             // code was added in VS
             // more code in github
             // more code added in VS
+            // code for feature 1. WIll use class 2
         }
     }
 }
