@@ -8,6 +8,9 @@ namespace ConsoleApp1
 {
     class Class1
     {
+
         // classe for feature2
+=======
+        // feature1 class added from 
     }
 }
